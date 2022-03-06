@@ -342,7 +342,7 @@ You could also use these, but read around first. There may be caveats:
 
 Here is an article I wrote about choosing a language for the interview: 
 [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
-This is the original article my post was based on: http://blog.codingforinterviews.com/best-programming-language-jobs/
+This is the original article my post was based on: http://blog.codingforinterviews.com/f-programming-language-jobs/
 
 You need to be very comfortable in the language and be knowledgeable.
 
@@ -577,7 +577,7 @@ But don't forget to do coding problems from above while you learn!
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [slides](https://archive.org/details/lecture2_202008)
